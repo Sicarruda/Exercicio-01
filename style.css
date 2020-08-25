@@ -1,0 +1,60 @@
+#branco{
+  background: white;
+  margin:0 auto;
+
+}
+#azul{
+  background: blue;
+  color: white;
+  text-align: center;
+  margin: 30px 30px;
+ 
+  padding: 10% 20%;
+}
+#tresCores{
+ 
+  margin: 30px 30px;
+  text-align: center;
+  
+ 
+}
+#duasCores{
+   margin: 30px 30px;
+  text-align: center;
+  
+}
+.vermelho{
+  background: red;
+  margin: 0 30px;
+  display: inline-block;
+  padding: 5% 7%;
+  
+
+}
+.rosa{
+  background: pink;
+  margin: auto 30px;
+  display: inline-block;
+  padding: 3% 15%;
+
+}
+.verde{
+  background: green;
+  margin: 0 30px;
+  display: inline-block;
+  padding: 5% 7%;
+  
+}
+.amarelo{
+  background: yellow;
+  margin: 0 30px;
+  display: inline-block;
+  padding: 5% 7%;
+}
+.preto{
+  background: black;
+  color: white;
+  display: inline-block;
+  margin: auto 30px;
+  padding: 3% 15%
+}
